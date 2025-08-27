@@ -1,8 +1,8 @@
-Don't know if <b>Speedy Launcher</b> is a just balance between performance and usability.
+<b>Speedy Launcher Fork</b> achieves a beautiful balance between performance and usability.
 
-No doubt it is really minimal no icons, no auto update applications list, nothing that could waste your battery.
+No doubt it is exceedingly minimal - no icons, no auto update applications list, nothing that could waste your battery.
 
-Let me show it's help text:
+Here's it's help text:
 
 Tap on an <b>app</b> to launch it
 
@@ -12,6 +12,6 @@ Tap <b>▦</b> to show/hide app also without search text.
 
 Long press <b>▦</b> to show/hide confirm dialog using shortcut.
 
-Every other symbol is a shortcut that launch the app you want with single tap o long press.
+Every other symbol is a shortcut that launches the app you want with just a tap or long press.
 
-Launch "Speedy Launcher" from itself to reload app list and view again this help text.
+Launch "Speedy Launcher" from itself to reload the app list and view this help text again.
