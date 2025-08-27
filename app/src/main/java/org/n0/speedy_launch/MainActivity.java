@@ -85,8 +85,8 @@ public class MainActivity extends Activity {
         /* array adapter which will be used to populate the main list */
         appAdapter = new ArrayAdapter<>(this, R.layout.main_listview, R.id.mnTxtVw, new ArrayList<>());
 
-        ArrayAdapter<String> leftPrefsAdapter = new ArrayAdapter<>(this, R.layout.main_listview, R.id.mnTxtVw, rightPrefsArr);
-        ArrayAdapter<String> rightPrefsAdapter = new ArrayAdapter<>(this, R.layout.main_listview, R.id.mnTxtVw, leftPrefsArr);
+        ArrayAdapter<String> leftPrefsAdapter = new ArrayAdapter<>(this, R.layout.main_listview, R.id.mnTxtVw, leftPrefsArr);
+        ArrayAdapter<String> rightPrefsAdapter = new ArrayAdapter<>(this, R.layout.main_listview, R.id.mnTxtVw, rightPrefsArr);
 
 
         leftPrefsListView.setAdapter(leftPrefsAdapter);
